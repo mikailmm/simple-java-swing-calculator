@@ -2,7 +2,6 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.Arrays;
-
 import javax.swing.*;
 
 public class Calculator extends JFrame implements ActionListener {
